@@ -11,7 +11,7 @@ A simple and intuitive to-do list application built using React. The app allows 
 * Task Priority: Set priority levels for different tasks.
 * Responsive Design: Fully responsive, works on both desktop and mobile devices
 
-Live Demo - https://www.netlify.com/compose/?utm_campaign=Compose-2024&utm_source=in-app
+Live Demo - https://main--letstodoapp.netlify.app/
 
 ## Installation 
 
