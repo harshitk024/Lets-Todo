@@ -59,7 +59,7 @@ const App = () => {
   
   const [heading,setHeading] = useState("Tasks")
   const [showTaskDialog,setShowTaskDialog] = useState(false)
-  const [projects,setProjects] = useState([])
+  const [projects,setProjects] = useState(["Home","School"])
   const [inputProject,setInputProject] = useState(false)
   const [taskList,setTaskList] = useState([
     {
